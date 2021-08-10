@@ -11,6 +11,5 @@ In this module, you will view the course syllabus to learn what will be taught i
 - Describe the impact of cloud technologies on data science.
 - Describe some of the key qualities of a successful data scientist.
 
-### Instructors
-- Rab Ahuja
-- Alex Aklson
+### Instructors 
+Rav Ahuja and Alex Aklson
