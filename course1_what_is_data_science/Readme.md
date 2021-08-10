@@ -1,4 +1,4 @@
-# What is Data Science?
+# Course 1. [What is Data Science?](https://www.coursera.org/learn/what-is-datascience)
 
 ## Course Syllabus
 
@@ -51,5 +51,3 @@
 - The Report Structure
 - Quiz: The Report Structure
 - Final Assignment
-
-### Course link: [What is Data Science?](https://www.coursera.org/learn/what-is-datascience)
