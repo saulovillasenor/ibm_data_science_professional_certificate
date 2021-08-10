@@ -1,6 +1,8 @@
 # ibm_data_science_professional_certificate
 Repository for the IBM Data Science Professional Certificate offered on Coursera
 
+# [IBM Data Science Professional Certificate, Coursera](https://www.coursera.org/professional-certificates/ibm-data-science) ### 
+
 ### About this Professional Certificate ###
 Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate from IBM will help engineers interested in pursuing a career in data science or machine learning develop career-relevant skills and experience. 
 
@@ -55,6 +57,3 @@ This Professional Certificate has a strong emphasis on applied learning. Except 
   - Predict Housing Prices
   - Best Classifier Model
   - Battle of Neighbourhoods
-  
-### Credits ###
-IBM Data Science Professional Certificate, Coursera (https://www.coursera.org/professional-certificates/ibm-data-science)  
