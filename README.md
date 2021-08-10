@@ -7,16 +7,16 @@ Data science is one of the hottest professions of the decade, and the demand for
 The program consists of 9 online courses that will provide you with the latest job-ready tools and skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms. You’ll learn data science through hands-on practice using real data science tools and real-world data sets.
 
 ### Courses ###
-1. What is Data Science?
-2. Tools for Data Science
-3. Data Science Methodology
-4. Python for Data Science, AI and Development
-5. Python Project for Data Science
-6. Databases and SQL for Data Science with Python
-7. Data Analysis with Python
-8. Data Visualization with Python
-9. Machine Learning with Python
-10. Applied Data Science Capstone
+1. [What is Data Science?](https://www.coursera.org/learn/what-is-datascience)
+2. [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science)
+3. [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology)
+4. [Python for Data Science, AI and Development](https://www.coursera.org/learn/python-for-applied-data-science-ai)
+5. [Python Project for Data Science](https://www.coursera.org/learn/python-project-for-data-science)
+6. [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science)
+7. [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python)
+8. [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization)
+9. [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python)
+10. [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone)
 
 ### Applied Learning Project ###
 This Professional Certificate has a strong emphasis on applied learning. Except for the first course, all other courses include a series of hands-on labs that will give you practical skills with applicability to real jobs, including: 
