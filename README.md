@@ -1,5 +1,5 @@
 # ibm_data_science_professional_certificate
-Repository for the IBM Data Science Professional Certificate offered on Coursera
+Repository for the Data Science Professional Certificate offered by IBM on Coursera
 
 # [IBM Data Science Professional Certificate, Coursera](https://www.coursera.org/professional-certificates/ibm-data-science) ### 
 
