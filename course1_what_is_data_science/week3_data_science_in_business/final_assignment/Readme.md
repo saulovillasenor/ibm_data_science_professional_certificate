@@ -1,4 +1,4 @@
-# Final Assignment on What is Data Science and the Data Science Report Structure
+# Final Assignment: What is Data Science and the Data Science Report Structure
 
 __Question 1.__ Based on the videos and the reading material, how would you define a data scientist and data science? __(3 marks)__
 - According to what I have learnt in this course, I would define a data scientist as a curious person who is interested in the answers about anything they see around them and who is able to use data science in order to solve some of these questions. It is important for a data scientist to have some technical skills like computational thinking, coding experience, basic math and satistical knowledge and so on, however the key skills for a data scientist are the curiosity and the ability to construct a powerful story to share their findings. Regarding data science, it is the analysis of large amounts of data which could not be analysed by traditional statistic methods, and because of this, it needs more advanced techniques like the use of some software, programming languages or big data clusters to process this big amount of data.
