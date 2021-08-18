@@ -19,6 +19,7 @@
 - Branching
 - Loops
 - Functions
+- Exception Handling
 - Objects and Classes
 - Object Oriented Programming
 
