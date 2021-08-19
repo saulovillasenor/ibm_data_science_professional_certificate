@@ -13,6 +13,6 @@
 - Stock Shares
 - Extracting Stock Data Using a Python Library
 - Extracting Stock Data Using Webscraping
--GameStop vs Tesla
+- GameStop vs Tesla
 - Analysing Historical Stock/Revenue Data
 - Building a Dashboard 
