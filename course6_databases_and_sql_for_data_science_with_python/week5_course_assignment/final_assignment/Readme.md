@@ -8,8 +8,8 @@ You will be asked questions that will help you understand the data just like a d
 A Python based Jupyter notebook has been provided to help with completing this assignment. Follow the instructions to complete all the problems. Then share the Queries and Results with your peers for reviewing.
 
 ## Step-By-Step Assignment Instructions
-###Assignment Topic:
--In this assignment, you will download the datasets provided, load them into a database, write and execute SQL queries to answer the problems provided, and upload a screenshot showing the correct SQL query and result for review by your peers. A Jupyter notebook is provided in the preceding lesson to help you with the process.
+### Assignment Topic:
+In this assignment, you will download the datasets provided, load them into a database, write and execute SQL queries to answer the problems provided, and upload a screenshot showing the correct SQL query and result for review by your peers. A Jupyter notebook is provided in the preceding lesson to help you with the process.
 
 This assignment involves 3 datasets for the city of Chicago obtained from the Chicago Data Portal:
 
@@ -49,21 +49,22 @@ To load the data into the tables the steps are similar to Week 2 Lab 1 Part II. 
 	- Problem 10: Use a sub-query to determine the Community Area Name with most number of crimes?
 
 ## How to submit
-	- A screenshot in JPEG format is required to be submitted for solution to each of the problems. The screenshot for each problem should clearly show the SQL query and results for the query. The screenshots will be uploaded in the following sections.
+A screenshot in JPEG format is required to be submitted for solution to each of the problems. The screenshot for each problem should clearly show the SQL query and results for the query. The screenshots will be uploaded in the following sections.
 
 ## Grading scheme
 There are 25 total points possible for this assignment. Here is the breakdown:
-	- Problem 1: 2 Points
-	- Problem 2: 2 Points
-	- Problem 3: 2 Points
-	- Problem 4: 2 Points
-	- Problem 5: 2 Points
-	- Problem 6: 2 Points
-	- Problem 7: 3 Points
-	- Problem 8: 3 Points
-	- Problem 9: 3 Points
-	- Problem 10: 4 Points
+- Problem 1: 2 Points
+- Problem 2: 2 Points
+- Problem 3: 2 Points
+- Problem 4: 2 Points
+- Problem 5: 2 Points
+- Problem 6: 2 Points
+- Problem 7: 3 Points
+- Problem 8: 3 Points
+- Problem 9: 3 Points
+- Problem 10: 4 Points
+
 For each problem points will be awarded as follows:
-	- Full points: Used a correct SQL query that yielded a correct result
-Half or partial points: The query and results are not fully correct
-No points: Did not attempt the problem or did not upload any solution
+- Full points: Used a correct SQL query that yielded a correct result
+- Half or partial points: The query and results are not fully correct
+- No points: Did not attempt the problem or did not upload any solution
