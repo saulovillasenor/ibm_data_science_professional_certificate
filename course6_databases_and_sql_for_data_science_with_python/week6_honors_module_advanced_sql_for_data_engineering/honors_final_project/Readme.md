@@ -7,12 +7,12 @@
 
 ## Review criteria
 - There is a total of 20 points available for this project. The breakdown is as follows:
-	1. Join – 3 points
-	2. Join – 3 points
-	3. Create a View based on two tables – 2 points
-	4. Define a Stored Procedure – 2 points
-	5. Within the Stored Procedure, create code to update a table – 2 points
-	6. Within the Stored Procedure, add code for an IF statement  - 2 points
-	7. Test the Stored Procedure – 2 points
-	8. Create and rollback a transaction – 2 points
-	9. Execute and commit a transaction – 2 points
+	- Join – __3 points__
+	- Join – __3 points__
+	- Create a View based on two tables – __2 points__
+	- Define a Stored Procedure – __2 points__
+	- Within the Stored Procedure, create code to update a table – __2 points__
+	- Within the Stored Procedure, add code for an IF statement  - __2 points__
+	- Test the Stored Procedure – __2 points__
+	- Create and rollback a transaction – __2 points__
+	- Execute and commit a transaction – __2 points__
