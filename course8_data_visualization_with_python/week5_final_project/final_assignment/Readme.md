@@ -1,5 +1,5 @@
 # Final Assignment: Creating an Interactive Dashboard about US Domestic Airline Flights Performance
-
+This is the final project of the course Data Visualization with Python. This project was also created in another repository in order to deploy the application in a [Heroku](https://www.heroku.com/) server and make it available for anyone. Please follow this [link](https://us-flight-performance.herokuapp.com/) in order to see the app working in a server. If you wish to view the repository for the app please follow this [link](https://github.com/saulovillasenor/us_airline_flights_performance_dashboard), there you will find some important files to make the app work in Heroku.
 ## Story
 As a data analyst, you have been given a task to monitor and report US domestic airline flights performance. Goal is to analyze the performance of the reporting airline to improve flight reliability thereby improving customer reliability. Below are the key report items:
 	- Yearly airline performance report 
