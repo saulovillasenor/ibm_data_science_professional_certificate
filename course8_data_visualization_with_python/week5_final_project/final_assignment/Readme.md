@@ -28,10 +28,10 @@ NOTE: Year range is between 2005 and 2020.
 
 ## Review
 Search/Look for review to know how commands are used and computations are carried out. There are 7 review items.
-	- REVIEW1: Clear the layout and do not display exception till callback gets executed.
-	- REVIEW2: Dropdown creation.
-	- REVIEW3: Observe how we add an empty division and providing an id that will be updated during callback.
-	- REVIEW4: Holding output state till user enters all the form information. In this case, it will be chart type and year.
-	- REVIEW5: Number of flights flying from each state using choropleth
-	- REVIEW6: Return dcc.Graph component to the empty division
-	- REVIEW7: This covers chart type 2 and we have completed this exercise under Flight Delay Time Statistics Dashboard section
+- REVIEW1: Clear the layout and do not display exception till callback gets executed.
+- REVIEW2: Dropdown creation.
+- REVIEW3: Observe how we add an empty division and providing an id that will be updated during callback.
+- REVIEW4: Holding output state till user enters all the form information. In this case, it will be chart type and year.
+- REVIEW5: Number of flights flying from each state using choropleth
+- REVIEW6: Return dcc.Graph component to the empty division
+- REVIEW7: This covers chart type 2 and we have completed this exercise under Flight Delay Time Statistics Dashboard section
