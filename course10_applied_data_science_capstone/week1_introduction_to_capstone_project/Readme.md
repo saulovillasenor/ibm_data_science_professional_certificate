@@ -24,4 +24,4 @@ Now, start a Jupyter Notebook using any platform that you are comfortable with a
 4. Print the following the statement: Hello Capstone Project Course!
 5. Push the Notebook to your Github repository and submit a link to the notebook on your Github repository.
 
-[Link to my notebook]:
+Click [here](https://github.com/saulovillasenor/ibm_data_science_professional_certificate/blob/main/course10_applied_data_science_capstone/week1_introduction_to_capstone_project/capstone_project_template.ipynb) to see template the notebook.
