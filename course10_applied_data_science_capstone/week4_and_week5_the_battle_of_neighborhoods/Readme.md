@@ -1,6 +1,8 @@
 # The Battle of Neighborhoods
 In this module, you will start working on the capstone project. You will clearly define a problem and discuss the data that you will be using to solve the problem.
 
+*__Please note__* that Folium maps are not rendered in GitHub, so please to see the full content for the "_final_project_opening_a_restaurant_" notebook displayed with interactive maps click [here]https://nbviewer.jupyter.org/github/saulovillasenor/ibm_data_science_professional_certificate/blob/main/course10_applied_data_science_capstone/week4_and_week5_the_battle_of_neighborhoods/final_project_opening_a_restaurant.ipynb
+
 ### Learning Objectives
 - Split the data into training testing data.
 - Train different classification models.
