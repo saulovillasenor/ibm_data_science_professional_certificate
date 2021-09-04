@@ -1,7 +1,7 @@
 # The Battle of Neighborhoods
 In this module, you will start working on the capstone project. You will clearly define a problem and discuss the data that you will be using to solve the problem.
 
-*__Please note__* that Folium maps are not rendered in GitHub, so please to see the full content for the "_final_project_opening_a_restaurant_" notebook displayed with interactive maps click [here]https://nbviewer.jupyter.org/github/saulovillasenor/ibm_data_science_professional_certificate/blob/main/course10_applied_data_science_capstone/week4_and_week5_the_battle_of_neighborhoods/final_project_opening_a_restaurant.ipynb
+*__Please note__* that Folium maps are not rendered in GitHub, so please to see the full content for the "_final_project_opening_a_restaurant_" notebook displayed with interactive maps click [here](https://nbviewer.jupyter.org/github/saulovillasenor/ibm_data_science_professional_certificate/blob/main/course10_applied_data_science_capstone/week4_and_week5_the_battle_of_neighborhoods/final_project_opening_a_restaurant.ipynb).
 
 ### Learning Objectives
 - Split the data into training testing data.
@@ -31,4 +31,4 @@ For the second week, the final deliverables of the project will be:
 	- Results section where you discuss the results.
 	- Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
 	- Conclusion section where you conclude the report.
-3. Your choice of a presentation or blogpost. _10 marks_
+3. Your choice of a presentation or blogpost. __10 marks__
