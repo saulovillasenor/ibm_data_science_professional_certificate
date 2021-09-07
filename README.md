@@ -9,10 +9,6 @@ Data science is one of the hottest professions of the decade, and the demand for
 
 The program consists of 10 online courses that will provide you with the latest job-ready tools and skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms. You’ll learn data science through hands-on practice using real data science tools and real-world data sets.
 
-Upon successfully completing these courses, you will have built a portfolio of data science projects to provide you with the confidence to plunge into an exciting profession in data science.
-
-In addition to earning a Professional Certificate from Coursera, you'll also receive a digital badge from IBM recognizing your proficiency in data science. 
-
 ### Courses ###
 1. [What is Data Science?](https://www.coursera.org/learn/what-is-datascience)
 2. [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science)
