@@ -2,6 +2,7 @@
 Repository for the Data Science Professional Certificate offered by IBM on Coursera
 
 # [IBM Data Science Professional Certificate, Coursera](https://www.coursera.org/professional-certificates/ibm-data-science) ### 
+This repository was created as a resource for anyone who wishes to learn some data science skills and as a guide for the completion of the IBM Data Science Professional Certificate offered by IBM on coursera. I carried out the task of gathering all of the learning material such as readings, quizes, tutorials, guides, reports, presentations, notebooks with full code, explanations and notes, projects and so on. To check my specialization record professional certificate please click [here](https://www.coursera.org/account/accomplishments/specialization/certificate/TEBWMKHB6JDP). To see my professional certificate authorized by IBM please click [here](https://www.credly.com/badges/f28665df-cc0f-436b-8c41-736aec92b247/public_url). If you'd like to view my LinkedIn profile and know more about me please click [here](https://www.linkedin.com/in/saulo-villase%C3%B1or-60669610a).
 
 ### About this Professional Certificate ###
 Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate from IBM will help any professional interested in pursuing a career in data science or machine learning develop career-relevant skills and experience. 
